@@ -14,7 +14,7 @@ I am using 3 platforms for education:
 I can't choose the best one, because each of them has its own **_advantages_**.
 
 I am happy that I already got acquainted with the command line.
-'''bash
+```bash
 ls -la
-'''
+```
 ### This code is not an abracadabra for me anymore.
